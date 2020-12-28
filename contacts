@@ -1,8 +1,17 @@
-{
-"contacts": [
+ [
 {
 "id": 1,
 "firstName": "Narayanamoorthy",
 "lastName": "Pandi"
-}]
+},
+{
+"id": 2,
+"firstName": "Mohanraj",
+"lastName": "Thandapani"
+},
+{
+"id": 3,
+"firstName": "Vasanth",
+"lastName": "Velusamy"
 }
+]
